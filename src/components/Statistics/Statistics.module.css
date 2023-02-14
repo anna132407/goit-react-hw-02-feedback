@@ -1,0 +1,12 @@
+.statlist {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 24px;
+    padding-left: 10px;
+}
+
+span {
+    font-weight: 500;
+    color: #000;
+}
