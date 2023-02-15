@@ -5,9 +5,15 @@
 }
 
 .btnlist button {
+    cursor: pointer;
     font-size: 18px;
     font-weight: 500;
     padding: 3px;
     border-radius: 8px;
     border: 1px solid #000;
 }
+
+.btnlist button:hover{
+    background: lightblue;
+}
+
